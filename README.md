@@ -37,7 +37,7 @@ The dashboard helps financial analysts and banking institutions:
 
 4. **Low fraud frequency requires anomaly-focused monitoring** - Since fraudulent activity represents a very small proportion of total transactions, traditional volume-based monitoring is less effective than anomaly-based detection approaches.
 
-5. **Interactive analysis improves fraud investigation efficiency** —-The dashboard enables analysts to filter and isolate suspicious patterns quickly, supporting faster investigation and decision-making.
+5. **Interactive analysis improves fraud investigation efficiency** - The dashboard enables analysts to filter and isolate suspicious patterns quickly, supporting faster investigation and decision-making.
 
 ---
 
