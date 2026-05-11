@@ -17,17 +17,17 @@ The dashboard helps financial analysts and banking institutions:
 
 ## 🖥️ Dashboard Preview
 
-### Page 1 — Transaction Overview
+### Page 1 - Transaction Overview
 ![Overview](screenshots/overview.png)
 
-### Page 2 — Fraud Analysis
+### Page 2 - Fraud Analysis
 ![Fraud Analysis](screenshots/fraud_analysis.png)
 
 ---
 
 ## 🔍 Key Insights
 
-- 📌 Only **0.17%** of all transactions are fraudulent — highly imbalanced dataset
+- 📌 Only **0.17%** of all transactions are fraudulent - highly imbalanced dataset
 - 💰 Fraudulent transactions have a **higher average amount** than legitimate ones
 - 📈 Most transactions are clustered at **low amounts**
 - 🔎 **492 fraud cases** detected out of 284,807 total transactions
@@ -61,7 +61,7 @@ Bank-Fraud-Detection-PowerBI/
 
 ## 📂 Dataset
 
-- **Source:** [Kaggle — Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+- **Source:** [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - **Rows:** 284,807 transactions
 - **Features:** Time, Amount, Class (0 = Legitimate, 1 = Fraud)
 - **Fraud Rate:** 0.17%
@@ -70,7 +70,7 @@ Bank-Fraud-Detection-PowerBI/
 
 ## 📊 Dashboard Features
 
-**Page 1 — Transaction Overview:**
+**Page 1 - Transaction Overview:**
 - Total Transactions KPI Card
 - Total Fraud Cases KPI Card
 - Total Amount KPI Card
@@ -80,7 +80,7 @@ Bank-Fraud-Detection-PowerBI/
 - Transaction Amount Distribution
 - Interactive Slicer Filter
 
-**Page 2 — Fraud Analysis:**
+**Page 2 - Fraud Analysis:**
 - Top Fraud Transactions Table
 - Highest Transaction Amount Card
 - Fraud Pattern Over Time Chart
@@ -106,7 +106,6 @@ Bank-Fraud-Detection-PowerBI/
 1. Clone this repository
 2. Open `dashboard.pdf` to view the full dashboard
 3. Download the dataset from Kaggle link above
-4. Open `.pbix` file in Power BI Desktop for full interactivity
 
 ---
 
