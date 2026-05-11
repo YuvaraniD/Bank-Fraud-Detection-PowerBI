@@ -110,4 +110,4 @@ Bank-Fraud-Detection-PowerBI/
 
 ---
 
-*This project was built as part of a Data Analytics portfolio to demonstrate Power BI skills for data analyst roles.*
+
