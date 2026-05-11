@@ -27,12 +27,29 @@ The dashboard helps financial analysts and banking institutions:
 
 ## 🔍 Key Insights
 
-- 📌 Only **0.17%** of all transactions are fraudulent - highly imbalanced dataset
-- 💰 Fraudulent transactions have a **higher average amount** than legitimate ones
-- 📈 Most transactions are clustered at **low amounts**
-- 🔎 **492 fraud cases** detected out of 284,807 total transactions
-- 💵 Total transaction volume: **$25.16 Million**
-- 🏦 Average transaction amount: **$88.35**
+## 🔎 Analytical Insights
+
+1. **Fraud detection is challenging due to severe class imbalance** - Only 0.17% of all transactions are fraudulent, highlighting the difficulty of identifying fraud accurately without generating excessive false positives.
+
+2. **Fraudulent transactions generally involve higher transaction values** - Analysis shows that fraudulent transactions tend to have larger average amounts compared to legitimate transactions, making transaction value a critical indicator for anomaly detection.
+
+3. **Transaction activity is concentrated in lower-value ranges** - Most legitimate transactions occur within lower transaction bands, while high-value outliers present a greater likelihood of suspicious activity.
+
+4. **Low fraud frequency requires anomaly-focused monitoring** - Since fraudulent activity represents a very small proportion of total transactions, traditional volume-based monitoring is less effective than anomaly-based detection approaches.
+
+5. **Interactive analysis improves fraud investigation efficiency** —-The dashboard enables analysts to filter and isolate suspicious patterns quickly, supporting faster investigation and decision-making.
+
+---
+
+## 💡 Business Recommendations
+
+| Recommendation | Description |
+|----------------|-------------|
+| 🚨 **Real-Time Fraud Alerts** | Implement automated alerts for unusually high-value transactions to enable immediate review and reduce potential financial losses |
+| 🎯 **Risk-Based Transaction Monitoring** | Apply stricter fraud detection thresholds for high-value transaction categories where fraudulent activity is more likely |
+| 🤖 **Anomaly Detection Models** | Use transaction value deviations and behavioural anomalies as key features for fraud prediction systems |
+| 📈 **Continuous Fraud Trend Monitoring** | Monitor transaction trends regularly through dashboard reporting to detect emerging fraud patterns early |
+| 🔍 **Focused Analyst Investigation** | Prioritise investigation efforts toward transaction segments with elevated fraud risk indicators |
 
 ---
 
