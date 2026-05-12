@@ -5,7 +5,7 @@
 
 ## 📊 Project Overview
 
-This project analyses **284,807 bank transactions** to identify fraud patterns and detect anomalies using an interactive Power BI dashboard. The dataset contains real anonymized credit card transactions, of which only **492 (0.17%)** are fraudulent — reflecting real-world fraud data imbalance.
+This project analyses **284,807 bank transactions** to identify fraud patterns and detect anomalies using an interactive Power BI dashboard. The dataset contains real anonymized credit card transactions, of which only **492 (0.17%)** are fraudulent - reflecting real-world fraud data imbalance.
 
 The dashboard helps financial analysts and banking institutions:
 - Identify fraud patterns quickly
